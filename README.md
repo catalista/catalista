@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Fernando G. 🎨
-### 3D Character Artist | Diseñador Gráfico | Game Developer
+### 3D Artist | Graphic design | Game Developer
 https://catalista.artstation.com
 
 <!--
