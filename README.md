@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Fernando G.
+# Fernando G. 🎨
 ### 3D Character Artist | Diseñador Gráfico | Game Developer
+https://catalista.artstation.com
+
+<!--
 **Ubicación:** Madrid, España  
 **Contacto:** [Sitio web personal](https://linktr.ee/catalista)
 
 ---
-<!--
 
 ## 🎨 **Acerca de mí**
 Con formación en Bellas Artes y más de diez años de experiencia, mi pasión por la informática y la animación en 3D me ha llevado a trabajar en diversas disciplinas creativas. Mis áreas principales son:
