@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # Fernando G. 🎨
 ### 3D Artist | Graphic design | Game Developer
-###***[Artstation](https://catalista.artstation.com)***
-###***[Itch.io](https://catalista.itch.io)***
+## #***[Artstation](https://catalista.artstation.com)***
+### ***[Itch.io](https://catalista.itch.io)***
 
 <!--
 **Ubicación:** Madrid, España  
